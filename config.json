@@ -1,0 +1,19 @@
+{
+    "params":{
+        "local_sever": "True",
+        "local_uri": "mysql://root:@localhost/coding blog",
+        "prod_uri": "mysql://root:@localhost/coding blog",
+        "blog_name": "BlogForBloggers",
+        "tag_line": "A blog liked by Bloggers",
+        "insta_url": "https://www.instagram.com/i.am.vivek",
+        "fb_url": "https://www.replit.com/@cutexsmarty",
+        "github_url": "https://www.github.com/mission-coding",
+        "mail_id": "vivek14128@gmail.com",
+        "mail_pass": "tfbw gycf ilwl qjma",
+        "about_text": "i am vivek and i created this blog using flask framework of python, i am still learning python programing. i love doing my this work",
+        "admin_user": "i.am.vivek_12",
+        "admin_pass": "#adminvivek",
+        "num_of_posts": 1,
+        "upload_location": "C:\\Users\\JMD\\OneDrive\\Documents\\Python Programs\\Flask\\Learn\\Day 7\\static\\assets\\img"
+    }
+}
